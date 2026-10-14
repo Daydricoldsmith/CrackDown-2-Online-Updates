@@ -1,6 +1,12 @@
 # The Agency Portal — CrackDown 2 Online Updates
 
-v1.1.0 introduces the native Windows Agency Portal: Agency/Freak Virus themes,
+v1.1.2 adds blended menu imagery, smoother slideshow fades, and bundled theme audio:
+Agency Tower for Agency, Freaks Cave for Freak Virus, plus randomized original
+Vole/Goliath cues when selecting Freak Virus. Audio defaults to quiet 8%, with
+volume/mute controls and an independent Freak cue toggle in Settings. All four
+audio files are included automatically; no separate download is needed.
+
+The native Windows Agency Portal provides Agency/Freak Virus themes,
 genuine game screenshot slideshows, animated navigation, Solo/Host/Join controls,
 player names, startup recovery and the existing online connection tools.
 Its .NET runtime is included; no separate runtime installation is required.
@@ -16,6 +22,6 @@ For the first upgrade from a hub without CHECK FOR UPDATES, close the game and h
 
 After that, disconnect from your room and use CHECK FOR UPDATES in the hub. It downloads and verifies program files, backs up replacements, then restarts the hub. Installation failures are recorded in update-result.txt. Original files are kept in update-backups.
 
-These releases contain no game assets, personal saves, profiles, or hosting keys. This is an experimental community project; releases do not include the game or claim four-player WAN test coverage yet.
+These releases include the selected Portal artwork and soundtrack/sound cues. They do not contain the full game assets/archive, personal saves, profiles, or hosting keys. This is an experimental community project; releases do not include the game or claim four-player WAN test coverage yet.
 
 Keyboard/mouse: enable Keyboard + mouse in the hub, click/focus the game window, then use mouse movement to look around. Turn the checkbox off before launching to use a controller. v1.0.1 includes the app-local mouse fix with automated camera-response and online regression checks; physical mouse feel still needs tester confirmation.

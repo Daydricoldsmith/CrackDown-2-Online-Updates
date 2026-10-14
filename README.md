@@ -1,4 +1,12 @@
-# CrackDown 2 Online — Updates
+# The Agency Portal — CrackDown 2 Online Updates
+
+v1.1.0 introduces the native Windows Agency Portal: Agency/Freak Virus themes,
+genuine game screenshot slideshows, animated navigation, Solo/Host/Join controls,
+player names, startup recovery and the existing online connection tools.
+Its .NET runtime is included; no separate runtime installation is required.
+The filename remains `Crackdown2-Online-Hub.exe` for existing shortcuts.
+Theme, input and router preferences are in Settings; updates are in Downloads.
+Recording remains optional, local and off at every startup.
 
 Download program-only patches from [Releases](https://github.com/Daydricoldsmith/CrackDown-2-Online-Updates/releases).
 

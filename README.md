@@ -10,7 +10,11 @@ The native Windows Agency Portal provides Agency/Freak Virus themes,
 genuine game screenshot slideshows, animated navigation, Solo/Host/Join controls,
 player names, startup recovery and the existing online connection tools.
 Its .NET runtime is included; no separate runtime installation is required.
-The filename remains `Crackdown2-Online-Hub.exe` for existing shortcuts.
+v1.1.4 gives the launcher its `AgencyPortal.exe` name, Agency emblem and
+The Agency Portal product details. On the first launch after updating, the
+legacy EXE creates/refreshes the new launcher and desktop shortcut automatically.
+`Crackdown2-Online-Hub.exe` remains for backward-compatible updates and backend
+services; existing shortcuts keep working and receive the new target/icon.
 Theme, input and router preferences are in Settings; updates are in Downloads.
 Recording remains optional, local and off at every startup.
 
